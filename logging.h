@@ -1,7 +1,3 @@
-//
-// Created by Phillip Romig on 7/15/24.
-//
-
 #ifndef LOGGING_H
 #define LOGGING_H
 #include <iostream>
