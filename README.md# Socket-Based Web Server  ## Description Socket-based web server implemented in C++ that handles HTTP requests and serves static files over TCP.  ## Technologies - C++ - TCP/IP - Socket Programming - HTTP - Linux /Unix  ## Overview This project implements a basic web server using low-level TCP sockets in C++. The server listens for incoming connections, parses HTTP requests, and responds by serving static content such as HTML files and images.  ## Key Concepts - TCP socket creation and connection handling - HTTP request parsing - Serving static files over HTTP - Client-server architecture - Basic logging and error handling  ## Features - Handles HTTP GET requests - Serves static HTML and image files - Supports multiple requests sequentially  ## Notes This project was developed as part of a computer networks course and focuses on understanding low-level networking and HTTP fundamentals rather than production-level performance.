@@ -1,0 +1,29 @@
+# Socket-Based Web Server
+
+## Description
+Socket-based web server implemented in C++ that handles HTTP requests and serves static files over TCP.
+
+## Technologies
+- C++
+- TCP/IP
+- Socket Programming
+- HTTP
+- Linux / Unix
+
+## Overview
+This project implements a basic web server using low-level TCP sockets in C++. The server listens for incoming connections, parses HTTP requests, and responds by serving static content such as HTML files and images.
+
+## Key Concepts
+- TCP socket creation and connection handling
+- HTTP request parsing
+- Serving static files over HTTP
+- Client-server architecture
+- Basic logging and error handling
+
+## Features
+- Handles HTTP GET requests
+- Serves static HTML and image files
+- Supports multiple requests sequentially
+
+## Notes
+This project was developed as part of a computer networks course and focuses on understanding networking and HTTP fundamentals rather than production-level performance.
